@@ -1,3 +1,5 @@
+import config from '../config' 
+
 var apiKey = config.apiKey;
 
 const Yelp = {
